@@ -236,6 +236,7 @@ main {
     background-image: url(pengaduan.jpg);
 
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .dark-mode {
